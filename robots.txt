@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://WebLabStudio-de.github.io/pub_cms/sitemap.xml

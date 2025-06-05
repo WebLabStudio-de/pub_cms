@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "WebLab Studio",
+    "description": "",
+    "home_page_url": "https://WebLabStudio-de.github.io/pub_cms",
+    "feed_url": "https://WebLabStudio-de.github.io/pub_cms/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Stephen James Morris"
+    },
+    "items": [
+        {
+            "id": "https://WebLabStudio-de.github.io/pub_cms/start.html",
+            "url": "https://WebLabStudio-de.github.io/pub_cms/start.html",
+            "title": "Start",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"\" height=\"\" width=\"\" alt=\"\"  data-is-external-image=\"true\">\n      \n    </figure>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Stephen James Morris"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-06-06T00:31:00+02:00",
+            "date_modified": "2025-06-06T00:31:00+02:00"
+        }
+    ]
+}
